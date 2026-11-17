@@ -162,7 +162,7 @@ autonomous-driving-perception/
 Requires Python 3.9 or newer (tested with 3.12).
 
 ```bash
-git clone https://github.com/<your-username>/autonomous-driving-perception.git
+git clone https://github.com/lavishgoyal7171-spec/autonomous-driving-perception.git
 cd autonomous-driving-perception
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
