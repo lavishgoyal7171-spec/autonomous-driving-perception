@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# large / generated files
+data/*.mp4
+data/*.avi
+data/*.mov
+data/*_gt.csv
+outputs/
+*.pt
+runs/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
